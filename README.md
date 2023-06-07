@@ -4,4 +4,3 @@ I was assigned to write a simple and comprehensive documentation in german for n
 This is the language I primarly used in my first coding job in Output Managment and Spooling for developing logic. 
 I worked as an extern on private documents for our clients, therefore none of them are pushed here.
 
-# XSL Grundlagen dokumentation auf deutsch
