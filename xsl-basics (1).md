@@ -9,7 +9,6 @@ so kann beispielsweise der Text einer Überschrift auch in einem dynamisch gener
 
 ## XPath
 
-<!-- was ist XPath, kurze Erklärung, am besten mit Beispiel -->
 XPath ist ein wichtiges Element des XSLT-Standards. XPath steht für XML Path Language
 Es kann verwendet werden, um durch Elemente und Attribute in einem XML-Dokument zu __navigieren.__
 XPath verwendet Ausdrücke, um "Nodes"(Knoten) oder "Nodesets"(Knotengruppen) in einem XML-Dokument auszuwählen. 
